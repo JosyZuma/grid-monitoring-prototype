@@ -2,7 +2,7 @@
 
 A small Python + SQLite console application that simulates grid load 
 monitoring: it takes load readings as input, calculates a simple 
-risk score, flags overload conditions, and logs each reading to a 
+risk score, flags overload conditions and logs each reading to a 
 local database.
 
 ## What it does
@@ -31,7 +31,7 @@ thresholds, basic unit tests.
 python grid_monitor.py
 \`\`\`
 
-Enter a numeric load value when prompted, or type `exit` to quit.
+Enter a numeric load value when prompted or type `exit` to quit.
 
 
 
