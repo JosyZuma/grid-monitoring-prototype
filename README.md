@@ -17,7 +17,7 @@ local database.
 Self-directed project to build foundational Python and database 
 skills (control flow, functions, SQLite I/O, input validation) 
 alongside my EEE coursework. Not affiliated with any research 
-programme or infrastructure body — a personal learning project.
+programme or infrastructure body - a personal learning project.
 
 ## Status
 
